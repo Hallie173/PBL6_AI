@@ -1,6 +1,6 @@
-flask
+Flask
 flask-cors
-ultralytics
+gunicorn
 numpy
-opencv-python
-torch
+tensorflow
+opencv-python-headless
