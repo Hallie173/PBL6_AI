@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
 """
 Flask AI Server - FIXED NMS VERSION
 Backend: TensorFlow/Keras
 """
-
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import numpy as np
